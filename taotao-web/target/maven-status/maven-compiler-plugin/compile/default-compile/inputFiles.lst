@@ -1,0 +1,16 @@
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\mq\handler\ItemMQHandler.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\service\UserService.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\controller\OrderController.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\iterceptors\UserLoginHandlerInterceptor.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\bean\Item.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\controller\ItemCacheController.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\service\OrderService.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\bean\Order.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\service\ItemService.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\controller\ItemController.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\bean\OrderShipping.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\bean\User.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\controller\IndexController.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\threadlocal\UserThreadLocal.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\service\IndexService.java
+H:\taotao\workspace\taotao-web\src\main\java\com\taotao\web\bean\OrderItem.java
